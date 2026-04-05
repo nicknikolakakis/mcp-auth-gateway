@@ -1,0 +1,6 @@
+bin/
+cover.out
+*.db
+*.sqlite
+config.yaml
+!config.example.yaml

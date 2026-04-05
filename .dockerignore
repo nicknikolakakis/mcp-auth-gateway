@@ -1,0 +1,24 @@
+# Build artifacts
+bin/
+cover.out
+
+# Git
+.git/
+.gitignore
+
+# GitHub
+.github/
+
+# IDE
+.vscode/
+.idea/
+
+# Config with secrets
+config.yaml
+*.db
+*.sqlite
+
+# Documentation
+*.md
+!go.mod
+LICENSE
